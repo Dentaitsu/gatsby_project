@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Klassisches T-Shirt",
+        "price": "29.00",
+        "category": "Bekleidung",
+        "description": "Ein bequemes Basic aus 100% Bio-Baumwolle."
+    },
+    {
+        "id": 2,
+        "name": "Leder-Rucksack",
+        "price": "85.50",
+        "category": "Accessoires",
+        "description": "Handgefertigter Rucksack mit Laptop-Fach."
+    },
+    {
+        "id": 3,
+        "name": "Kaffeebecher 'Code'",
+        "price": "15.00",
+        "category": "Haushalt",
+        "description": "Spülmaschinenfester Keramikbecher für lange Nächte."
+    }
+]
